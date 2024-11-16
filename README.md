@@ -43,7 +43,7 @@ This repository contains the data, R scripts, and other materials used in my Bac
   - See below.
 
 ### 3. HTML files
-- PDF documents containing Research Management System (RMS) reports with detailed explanations of methodology and results.
+- HTML files created from .R Markdown (.RMD) documents that contain the same code as the corresponding R files but are rendered in HTML format, displaying both the code and the generated outputs directly.
 
 ---
 
@@ -58,7 +58,7 @@ The data used for this thesis is publicly available from the Swiss Federal Stati
 1. **Clone the repository** to your local machine.
 2. **Install the required R packages** by running the following in R:
     ```r
-    install.packages(c("tidyverse", "ggplot2", "dplyr", "lubridate", "fixest"))
+    install.packages(c("tidyverse", §readxl", "broom", "modelsummary", "dplyr", "ggplot", "ggtext", "ggfixest", "lmtest", "fixest", "gt", "gtsummary", "plm",  "ggplot2", "dplyr", "lubridate", "Synth", "knitr", "kableExtra", "webshot2", "ragg"))
     ```
 3. **Run the R scripts** in the following order:
     - `table_generation.R`: For initial data preparation and table creation.
@@ -135,8 +135,4 @@ All figures and tables are saved in the `output/` directory after running the an
 
 - **Social Democratic Party (SP)**. (2024). *Voting Share Data*. Available at: [https://www.sp-ps.ch](https://www.sp-ps.ch).
 
----
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
