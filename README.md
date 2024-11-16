@@ -78,7 +78,7 @@ The data used for this thesis is publicly available from the Swiss Federal Stati
 
 ## List of Tables and Figures
 
-- **Tables**  
+ - **Tables**  
     - Table 1: Accepted Referenda on NC Enfranchisement in Swiss Cantons  
     - Table 2: Share of Foreign Population in Swiss Cantons with NC Voting Rights  
     - Table 3: DiD Estimates of the Effect on NC Enfranchisement on Foreigner Unemployment Rate  
@@ -100,7 +100,7 @@ The data used for this thesis is publicly available from the Swiss Federal Stati
   - **Table C**  
     - Table C1: Weights of Cantons in the SCM for Synthetic Neuchâtel  
 
-- **Figures**  
+ - **Figures**  
     - Figure 1: Unemployment Rate: Neuchâtel vs. Sub-Control Group (Mean)  
     - Figure 2: Single Event-Study Lead/Lag Analysis: Neuchâtel vs Group II  
     - Figure 4: Unemployment Rate: Neuchâtel vs. Synthetic Neuchâtel  
