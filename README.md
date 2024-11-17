@@ -58,7 +58,7 @@ The data used for this thesis is publicly available from the Swiss Federal Stati
 1. **Clone the repository** to your local machine.
 2. **Install the required R packages** by running the following in R:
     ```r
-    install.packages(c("tidyverse", §readxl", "broom", "modelsummary", "dplyr", "ggplot", "ggtext", "ggfixest", "lmtest", "fixest", "gt", "gtsummary", "plm",  "ggplot2", "dplyr", "lubridate", "Synth", "knitr", "kableExtra", "webshot2", "ragg"))
+    install.packages(c("tidyverse", "readxl", "broom", "modelsummary", "dplyr", "ggplot", "ggtext", "ggfixest", "lmtest", "fixest", "gt", "gtsummary", "plm",  "ggplot2", "dplyr", "lubridate", "Synth", "knitr", "kableExtra", "webshot2", "ragg"))
     ```
 3. **Run the R scripts** in the following order:
     - `table_generation.R`: For initial data preparation and table creation.
